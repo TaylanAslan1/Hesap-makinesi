@@ -1,2 +1,2 @@
-# x
+
 hesap makinesi
